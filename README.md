@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Gleydsong
-- 👀 I’m interested in JavaScript, Python, Analysis data, Desenvolvimento Web
-- 🌱 I’m currently learning Java Script
+- 👋 Hi, I’m @Gibson
+- 👀 I’m interested in Desenvolvimento Web, React, JavaScript e Java! 
+- 🌱 I’m currently learning FullStack
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ... ggleydson@icloud.com
 - 😄 Pronouns: ... Gui
