@@ -70,20 +70,7 @@ const gibson = {
 
 </div>
 
----
 
-## 🎯 Projetos em Destaque
-
-<div align="center">
-
-[![Hair Day](https://github-readme-stats.vercel.app/api/pin/?username=Gleydsong&repo=hair-day&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Gleydsong/hair-day)
-
-</div>
-
-### 💇‍♂️ [Hair Day](https://github.com/Gleudsong/hair-day)
-Sistema de agendamento para salão de beleza com interface moderna e funcional.
-- **Tech:** JavaScript, HTML5, CSS3, Webpack, JSON Server
-- **Destaques:** Organização modular, manipulação de DOM, consumo de API REST
 
 ---
 
