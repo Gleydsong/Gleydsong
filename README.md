@@ -1,15 +1,84 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>
+# Gleydson Gibson
 
+Desenvolvedor **Full-Stack** com foco em **Front-end moderno** e experiência em  
+**Angular, React, Next.js, JavaScript, Node.js e Java**.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gleydsong&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gleydsong&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleydsong&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+Apaixonado por criar interfaces limpas, performáticas e fáceis de manter, sempre buscando boas práticas, padrões de projeto e código escalável.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Gleydsong&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔍 Sobre mim
+
+- 🎓 Engenheiro de Software / Desenvolvedor Full-Stack  
+- 💻 Foco atual: Front-end (SPA, SSR, SSG) com **React** e **Next.js**  
+- 🧠 Interesses: arquitetura frontend, performance, acessibilidade e DX (Developer Experience)  
+- 📚 Sempre estudando: padrões de projeto, clean code e boas práticas em JavaScript/TypeScript  
+
+---
+
+## 🛠️ Tech Stack
+
+### Front-end
+- **Frameworks:** Angular, React, Next.js  
+- **Linguagens:** JavaScript (ES6+), TypeScript  
+- **Base Web:** HTML5, CSS3  
+- **Estilização:** (ex.: Tailwind CSS, SASS, Styled Components – ajuste conforme o que você usa)
+
+### Back-end
+- **Runtime:** Node.js  
+- **Frameworks / libs:** (ex.: Express, NestJS – ajuste conforme o que você usa)  
+- **Linguagens:** Java  
+
+### Ferramentas & Workflow
+- **Controle de versão:** Git, GitHub  
+- **Ambiente:** VS Code / (outros que você utiliza)  
+- **Boas práticas:** Commits semânticos, branches organizadas, code review e documentação
+
+---
+
+## 📂 Organização dos meus repositórios
+
+Costumo estruturar meus projetos de forma clara e previsível, pensando em quem vai ler o código depois:
+
+- `frontend/` – Aplicações em React, Next.js ou Angular  
+- `backend/` – APIs em Node.js ou Java  
+- `docs/` – Documentação, diagramas, notas de arquitetura  
+- `scripts/` – Scripts de automação (build, deploy, etc.)
+
+> Sempre que possível, cada repositório contém um README com:
+> - Visão geral do projeto  
+> - Stack utilizada  
+> - Como rodar localmente  
+> - Próximos passos / roadmap
+
+---
+
+
+## 📈 O que estou estudando agora
+
+- Aprofundando em **TypeScript** para projetos front-end e back-end  
+- Melhorando arquitetura de projetos em **React/Next.js**  
+- Padrões de projeto e boas práticas em **JavaScript/Java**  
+
+---
+
+## 🤝 Como contribuir
+
+Se você viu algum repositório interessante e quiser contribuir:
+
+1. Faça um fork do repositório  
+2. Crie uma branch: `git checkout -b feature/nome-da-feature`  
+3. Faça commits claros e objetivos  
+4. Abra um Pull Request descrevendo as mudanças
+
+---
+
+## 📫 Contato
+
+- GitHub: [github.com/Gleydsong](https://github.com/Gleydsong)  
+- LinkedIn: [https://www.linkedin.com/in/gleydsongibson/](https://linkedin.com/in/gleydsongibson)  
+- E-mail: **Ggleydson@icloud.com**
+
+---
+
+> Sinta-se à vontade para explorar meus repositórios, abrir issues, sugerir melhorias ou trocar ideias sobre arquitetura, front-end e boas práticas de desenvolvimento.
