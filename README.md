@@ -45,12 +45,6 @@ Costumo estruturar meus projetos de forma clara e previsível, pensando em quem 
 - `docs/` – Documentação, diagramas, notas de arquitetura  
 - `scripts/` – Scripts de automação (build, deploy, etc.)
 
-> Sempre que possível, cada repositório contém um README com:
-> - Visão geral do projeto  
-> - Stack utilizada  
-> - Como rodar localmente  
-> - Próximos passos / roadmap
-
 ---
 
 
