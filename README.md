@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá, Meu nome é Gleydson Gibson</h1>
-<h3 align="center">Develvolvedor Full-Stack</h3>
+<h3 align="center">Desenvolvedor Full-Stack</h3>
 
 <h3 align="left">Pode Conecta-se:</h3>
 <p align="left">
