@@ -18,12 +18,7 @@ Aqui estão as principais tecnologias com as quais trabalho atualmente:
 
 <br/>
 
-### 📊 Estatísticas do GitHub
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gleydsong&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do Gleydson" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleydsong&layout=compact&theme=dracula&hide_border=true" alt="Linguagens Mais Usadas" height="150" />
-</div>
 
 ---
 
