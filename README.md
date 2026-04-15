@@ -27,7 +27,7 @@ Aqui estão as principais tecnologias com as quais trabalho atualmente:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gleydsongibson)
 [![X / Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/guiDev34)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ggleydson@icloud.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-252525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gleydsong.github.io/effective-engine/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-252525?style=for-the-badge&logo=google-chrome&logoColor=white)](https://guidev.tech)
 
 <br/>
 
