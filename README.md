@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por tecnologia e por criar soluções web eficie
 Aqui estão as principais tecnologias com as quais trabalho atualmente:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,mysql,postgres,docker" alt="Minhas Habilidades" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,mysql,postgres,docker" alt="Minhas Habilidades" />
 </div>
 
 <br/>
