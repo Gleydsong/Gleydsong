@@ -1,8 +1,8 @@
 # Olá! 👋 Meu nome é Gleydson Gibson
 
-### 👨‍💻 Desenvolvedor Full-Stack | JavaScript, React, Node.js & C#(.NET)
+### 👨‍💻 Desenvolvedor Full-Stack | JavaScript, React, Node.js & Java.
 
-Sou um desenvolvedor em sistema web eficientes e responsivas. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades, focando em escrever códigos limpos e de fácil manutenção. Atualmente, atuo em projetos envolvendo ecossistemas JavaScript/TypeScript e C#(.NET).
+Sou um desenvolvedor em sistema web eficientes e responsivas. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades, focando em escrever códigos limpos e de fácil manutenção. Atualmente, atuo em projetos envolvendo ecossistemas JavaScript/TypeScript e Java.
 
 📍 **Localização:** Porto, Portugal
 
@@ -13,7 +13,7 @@ Sou um desenvolvedor em sistema web eficientes e responsivas. Estou sempre em bu
 Aqui estão as principais tecnologias com as quais trabalho atualmente:
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,mysql,postgres,docker" alt="Minhas Habilidades" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,mysql,postgres,docker,java" alt="Minhas Habilidades" />
 </div>
 
 <br/>
