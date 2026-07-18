@@ -1,6 +1,6 @@
 # Olá! 👋 Meu nome é Gleydson Gibson
 
-### 👨‍💻 Desenvolvedor Full-Stack | JavaScript, React, Node.js & Java.
+### 👨‍💻 Desenvolvedor Full-Stack | JavaScript, React(NextJs), Node.js(NestJs)
 
 Sou um desenvolvedor em sistema web eficientes e responsivas. Estou sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades, focando em escrever códigos limpos e de fácil manutenção. Atualmente, atuo em projetos envolvendo ecossistemas JavaScript/TypeScript e Java.
 
