@@ -67,12 +67,12 @@ Construo produtos de ponta a ponta: contrato da API, domínio, persistência, fi
 ## Telemetria
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gleydsong&show_icons=true&hide_border=true&bg_color=03040a&title_color=00e5ff&icon_color=8b6cff&text_color=c9d7e8&ring_color=00e5ff" alt="GitHub stats de Gleydsong" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleydsong&layout=compact&hide_border=true&bg_color=03040a&title_color=00e5ff&text_color=c9d7e8" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=Gleydsong&show_icons=true&hide_border=true&bg_color=03040a&title_color=00e5ff&icon_color=8b6cff&text_color=c9d7e8&ring_color=00e5ff" alt="GitHub stats de Gleydsong" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Gleydsong&layout=compact&hide_border=true&bg_color=03040a&title_color=00e5ff&text_color=c9d7e8" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gleydsong&bg_color=03040a&color=8aa0b8&line=00e5ff&point=8b6cff&area=true&hide_border=true" alt="Grafico de atividade no GitHub" />
+  <img src="https://ghchart.rshah.org/00e5ff/Gleydsong" alt="Grafico de contribuicoes no GitHub" />
 </p>
 
 ---
