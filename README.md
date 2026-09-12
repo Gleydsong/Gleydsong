@@ -21,30 +21,30 @@
 |  name      Gleydson Gibson                                         |
 |  loc       Porto, Portugal                                         |
 |  role      Full-Stack Engineer                                     |
-|  signal    sistemas web que sobrevivem a produ&#231;&#227;o                  |
+|  signal    sistemas web que sobrevivem em producao                 |
 |  loop      TypeScript | NestJS | React | PostgreSQL | Redis        |
 +--------------------------------------------------------------------+
 ```
 
-Projeto produtos de ponta a ponta: contrato da API, dom&#237;nio, persist&#234;ncia, fila, UI e opera&#231;&#227;o. O foco &#233; SaaS B2B, APIs REST e infraestrutura de agentes -- c&#243;digo expl&#237;cito, limites claros e comportamento verific&#225;vel.
+Projeto produtos de ponta a ponta: contrato da API, domínio, persistência, fila, UI e operação. O foco é SaaS B2B, APIs REST e infraestrutura de agentes — código explícito, limites claros e comportamento verificável.
 
 **O que eu construo**
 
-- Plataformas SaaS com autentica&#231;&#227;o, RBAC e isolamento por tenant
-- APIs REST com valida&#231;&#227;o, filas e observabilidade
+- Plataformas SaaS com autenticação, RBAC e isolamento por tenant
+- APIs REST com validação, filas e observabilidade
 - Front-ends em React/Next.js com tipagem forte e fluxos reais
-- Sistemas com IA aplicada (workers, mem&#243;ria de agentes, extra&#231;&#227;o)
+- Sistemas com IA aplicada (workers, memória de agentes, extração)
 
 ---
 
 ## Sistemas em destaque
 
-| Sistema | Miss&#227;o | Superf&#237;cie |
+| Sistema | Missão | Superfície |
 | :--- | :--- | :--- |
-| **[Prospectly](https://github.com/Gleydsong/prospectly)** | SaaS B2B para prospectar, analisar e organizar neg&#243;cios locais que precisam de presen&#231;a digital | React / NestJS / Prisma / PostgreSQL / Redis / BullMQ |
-| **[memory-shared](https://github.com/Gleydsong/memory-shared)** | Mem&#243;ria compartilhada entre agentes (Orca, Codex, Grok, Cursor) com isolamento de projeto | TypeScript / MCP / Redis / Docker |
-| **[extractionstack](https://github.com/Gleydsong/extractionstack)** | An&#225;lise ass&#237;ncrona de URLs p&#250;blicas: stack, performance, seguran&#231;a e evid&#234;ncias | NestJS / Playwright / BullMQ / PostgreSQL |
-| **[guidev.tech](https://guidev.tech)** | Portf&#243;lio e canal p&#250;blico | Next.js / TypeScript |
+| **[Prospectly](https://github.com/Gleydsong/prospectly)** | SaaS B2B para prospectar, analisar e organizar negócios locais que precisam de presença digital | React / NestJS / Prisma / PostgreSQL / Redis / BullMQ |
+| **[memory-shared](https://github.com/Gleydsong/memory-shared)** | Memória compartilhada entre agentes (Orca, Codex, Grok, Cursor) com isolamento de projeto | TypeScript / MCP / Redis / Docker |
+| **[extractionstack](https://github.com/Gleydsong/extractionstack)** | Análise assíncrona de URLs públicas: stack, performance, segurança e evidências | NestJS / Playwright / BullMQ / PostgreSQL |
+| **[guidev.tech](https://guidev.tech)** | Portfólio e canal público | Next.js / TypeScript |
 
 ---
 
@@ -57,7 +57,7 @@ Projeto produtos de ponta a ponta: contrato da API, dom&#237;nio, persist&#234;n
 | Camada | Ferramentas |
 | :--- | :--- |
 | **Interface** | React, Next.js, TypeScript, Tailwind, Vite, TanStack Query |
-| **Dom&#237;nio / API** | Node.js, NestJS, Express, Zod, JWT, RBAC |
+| **Domínio / API** | Node.js, NestJS, Express, Zod, JWT, RBAC |
 | **Dados** | PostgreSQL, Prisma, MySQL, Redis |
 | **Runtime** | Docker, BullMQ, GitHub Actions, Playwright |
 | **Adjacente** | Java, MCP, observabilidade, IA local (Ollama) |
@@ -72,7 +72,7 @@ Projeto produtos de ponta a ponta: contrato da API, dom&#237;nio, persist&#234;n
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gleydsong&hide_border=true&background=03040a&ring=00e5ff&fire=8b6cff&currStreakLabel=00e5ff&sideLabels=8aa0b8&dates=6b8299&currStreakNum=c9d7e8&sideNums=c9d7e8" alt="Sequencia de contribuicoes" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gleydsong&bg_color=03040a&color=8aa0b8&line=00e5ff&point=8b6cff&area=true&hide_border=true" alt="Grafico de atividade no GitHub" />
 </p>
 
 ---
@@ -92,6 +92,6 @@ Projeto produtos de ponta a ponta: contrato da API, dom&#237;nio, persist&#234;n
 
 `protocol: production-first` / `locale: pt-PT / pt-BR` / `commit: ship systems, not demos`
 
-<sub>Se o sistema n&#227;o pode ser operado, testado e revertido, ainda n&#227;o est&#225; pronto.</sub>
+<sub>Se o sistema não pode ser operado, testado e revertido, ainda não está pronto.</sub>
 
 </div>
