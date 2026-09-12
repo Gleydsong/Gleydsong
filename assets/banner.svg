@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">guiDev - Gleydson Gibson</title>
+  <desc id="desc">Full-stack systems engineer. SaaS, APIs and AI infrastructure. Porto, Portugal.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#03040a"/>
+      <stop offset="0.52" stop-color="#07101c"/>
+      <stop offset="1" stop-color="#090414"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0.82" cy="0.48" r="0.42">
+      <stop offset="0" stop-color="#00e5ff" stop-opacity="0.34"/>
+      <stop offset="0.38" stop-color="#7c5cff" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#03040a" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset="1" stop-color="#8b6cff"/>
+    </linearGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00e5ff" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#7dd8ff" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="380" fill="url(#bg)"/>
+  <rect width="1200" height="380" fill="url(#grid)"/>
+  <rect width="1200" height="380" fill="url(#core)"/>
+  <rect x="0" y="0" width="1200" height="380" fill="none" stroke="#00e5ff" stroke-opacity="0.18" stroke-width="1"/>
+  <path d="M18 48V18H48" fill="none" stroke="#00e5ff" stroke-width="2"/>
+  <path d="M1182 48V18H1152" fill="none" stroke="#00e5ff" stroke-width="2"/>
+  <path d="M18 332V362H48" fill="none" stroke="#8b6cff" stroke-width="2"/>
+  <path d="M1182 332V362H1152" fill="none" stroke="#8b6cff" stroke-width="2"/>
+  <rect x="72" y="0" width="1" height="380" fill="#00e5ff" opacity="0.08"/>
+  <rect x="0" y="54" width="1200" height="1" fill="#00e5ff" opacity="0.1"/>
+  <rect x="0" y="326" width="1200" height="1" fill="#8b6cff" opacity="0.16"/>
+  <rect x="90" y="168" width="420" height="8" fill="url(#scan)"/>
+  <g transform="translate(92, 92)">
+    <text x="0" y="0" fill="#7dd8ff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" letter-spacing="6">SYS.INIT  //  PORTO  /  PT</text>
+    <text x="0" y="62" fill="#f4fbff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="58" font-weight="700" letter-spacing="8">GUIDEV</text>
+    <rect x="0" y="78" width="214" height="3" fill="url(#neon)"/>
+    <text x="0" y="122" fill="#c9d7e8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20" letter-spacing="3">GLEYDSON GIBSON</text>
+    <text x="0" y="156" fill="#8aa0b8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="14" letter-spacing="2">FULL-STACK SYSTEMS  /  SAAS  /  APIS  /  AI</text>
+  </g>
+  <g transform="translate(980, 190)" filter="url(#glow)">
+    <circle r="108" fill="none" stroke="#00e5ff" stroke-opacity="0.16" stroke-width="1"/>
+    <circle r="78" fill="none" stroke="#8b6cff" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 10"/>
+    <circle r="48" fill="none" stroke="#00e5ff" stroke-opacity="0.7" stroke-width="2"/>
+    <circle r="10" fill="#00e5ff"/>
+    <circle cx="78" cy="0" r="4" fill="#8b6cff"/>
+    <circle cx="-55" cy="55" r="3" fill="#39ff88"/>
+    <circle cx="40" cy="-68" r="3.5" fill="#00e5ff"/>
+    <line x1="0" y1="0" x2="78" y2="0" stroke="#8b6cff" stroke-opacity="0.7" stroke-width="1"/>
+    <line x1="0" y1="0" x2="-55" y2="55" stroke="#39ff88" stroke-opacity="0.55" stroke-width="1"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" letter-spacing="2">
+    <text x="92" y="352" fill="#39ff88">ONLINE</text>
+    <text x="210" y="352" fill="#6b8299">NODE 20+</text>
+    <text x="330" y="352" fill="#6b8299">TYPESCRIPT</text>
+    <text x="480" y="352" fill="#6b8299">NESTJS</text>
+    <text x="580" y="352" fill="#6b8299">REACT</text>
+    <text x="680" y="352" fill="#6b8299">POSTGRES</text>
+    <text x="800" y="352" fill="#6b8299">REDIS</text>
+    <text x="900" y="352" fill="#7dd8ff">guidev.tech</text>
+  </g>
+</svg>
