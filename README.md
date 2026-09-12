@@ -26,7 +26,7 @@
 +--------------------------------------------------------------------+
 ```
 
-Projeto produtos de ponta a ponta: contrato da API, domínio, persistência, fila, UI e operação. O foco é SaaS B2B, APIs REST e infraestrutura de agentes — código explícito, limites claros e comportamento verificável.
+Construo produtos de ponta a ponta: contrato da API, domínio, persistência, fila, UI e operação. O foco é SaaS B2B, APIs REST e infraestrutura de agentes — código explícito, limites claros e comportamento verificável.
 
 **O que eu construo**
 
